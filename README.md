@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**aryaa-9/aryaa-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a physics major with an interest in computational physics 🌟  
 
-Here are some ideas to get you started:
+Here are some of my private repositories:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Optical Circuits
+2. IR Spectroscopy
+3. Differential Thermal Analysis
+4. NMR Spectroscopy
+5. X-ray Diffraction
+6. DNA Sequence Alignment using the Needleman-Wunsch Algorithm
+7. Burrows-Wheeler Transform (BWT) for DNA Sequence Pattern Matching
+
+If you're interested in viewing any of these projects, feel free to contact me using the information in my resume!
