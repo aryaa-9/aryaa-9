@@ -1,4 +1,4 @@
-## Hi there ✨
+## Hi there! ✨
 
 Welcome to my GitHub profile!  
 I'm a physics major with an interest in computational physics.
