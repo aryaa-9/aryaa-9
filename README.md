@@ -1,7 +1,7 @@
-## Hi there ⭐
+## Hi there ✨
 
 Welcome to my GitHub profile!  
-I'm a physics major with an interest in computational physics ✨  
+I'm a physics major with an interest in computational physics.
 
 Here are some of my private repositories:
 
